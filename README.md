@@ -4,7 +4,7 @@
 
 ## 游戏演示
 
-[下载愤怒的小鸟游戏演示（MP4）](https://github.com/thrive-z/AngryBrid2D/releases/download/showcase-2026-11-11/AngryBrid2D-Gameplay.mp4)
+[在线观看愤怒的小鸟游戏演示](https://thrive-z.github.io/AngryBrid2D/)（约 1 分 43 秒） · [下载原版 MP4](https://github.com/thrive-z/AngryBrid2D/releases/download/showcase-2026-11-11/AngryBrid2D-Gameplay.mp4)
 
 ## 我实现的功能
 
