@@ -1,5 +1,7 @@
 # 愤怒的小鸟 · Unity 2D 复刻练习
 
+**[▶ 在线观看演示](https://thrive-z.github.io/AngryBrid2D/)　·　[⬇ 下载 Windows 试玩版](https://github.com/thrive-z/AngryBrid2D/releases/download/showcase-2026-11-11/AngryBrid2D-Windows.zip)**
+
 用 Unity 2023.1.1f1 和 C# 制作的 2D 物理闯关项目。拖动弹弓发射小鸟，用碰撞和飞行技能击倒关卡里的猪，再查看分数和星级。
 
 ## 游戏演示
