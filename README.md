@@ -1,12 +1,12 @@
 # 愤怒的小鸟 · Unity 2D 复刻练习
 
-**[▶ 在线观看演示](https://thrive-z.github.io/AngryBrid2D/)　·　[⬇ 下载 Windows 试玩版](https://github.com/thrive-z/AngryBrid2D/releases/download/showcase-2026-11-11/AngryBrid2D-Windows.zip)**
+**[▶ 在线观看演示](https://thrive-z.github.io/AngryBird2D/)　·　[⬇ 下载 Windows 试玩版](https://github.com/thrive-z/AngryBird2D/releases/download/showcase-2026-11-11/AngryBrid2D-Windows.zip)**
 
 用 Unity 2023.1.1f1 和 C# 制作的 2D 物理闯关项目。拖动弹弓发射小鸟，用碰撞和飞行技能击倒关卡里的猪，再查看分数和星级。
 
 ## 游戏演示
 
-[在线观看愤怒的小鸟游戏演示](https://thrive-z.github.io/AngryBrid2D/)（约 1 分 43 秒） · [下载原版 MP4](https://github.com/thrive-z/AngryBrid2D/releases/download/showcase-2026-11-11/AngryBrid2D-Gameplay.mp4)
+[在线观看愤怒的小鸟游戏演示](https://thrive-z.github.io/AngryBird2D/)（约 1 分 43 秒） · [下载原版 MP4](https://github.com/thrive-z/AngryBird2D/releases/download/showcase-2026-11-11/AngryBrid2D-Gameplay.mp4)
 
 ## 我实现的功能
 
@@ -24,8 +24,8 @@
 
 | 文件 | 使用方式 |
 | --- | --- |
-| [Windows 试玩版 ZIP](https://github.com/thrive-z/AngryBrid2D/releases/download/showcase-2026-11-11/AngryBrid2D-Windows.zip) | 完整解压后双击 `AngryBrid2D.exe`。 |
-| [Unity 资源包](https://github.com/thrive-z/AngryBrid2D/releases/download/showcase-2026-11-11/AngryBrid2D-Assets.unitypackage) | 用 Unity 2023.1.1f1 的 **Assets → Import Package → Custom Package** 导入。 |
+| [Windows 试玩版 ZIP](https://github.com/thrive-z/AngryBird2D/releases/download/showcase-2026-11-11/AngryBrid2D-Windows.zip) | 完整解压后双击 `AngryBrid2D.exe`。 |
+| [Unity 资源包](https://github.com/thrive-z/AngryBird2D/releases/download/showcase-2026-11-11/AngryBrid2D-Assets.unitypackage) | 用 Unity 2023.1.1f1 的 **Assets → Import Package → Custom Package** 导入。 |
 
 按住鼠标左键向后拖动小鸟，松开发射。具备飞行技能的鸟发射后，可再点一次鼠标左键触发技能。
 
